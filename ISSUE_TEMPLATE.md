@@ -9,4 +9,4 @@
 
 #### Libertas version: 
 
-- [ ] Submitted a decrypted IPA via Discord or e-mail.
+- [ ] Submitted a decrypted IPA via Discord or [e-mail](mailto:libertas+ipas@umangis.me).
