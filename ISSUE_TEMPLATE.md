@@ -7,6 +7,9 @@
 <!-- Screenshots or description of any error screens you see -->
 <!-- Logs are welcome and appreciated -->
 
+## Device and iOS version:
+<!-- iPhone X, iOS 12.0 beta 9? -->
+
 #### Libertas version: 
 
 - [ ] Submitted a decrypted IPA via Discord or [e-mail](mailto:libertas+ipas@umangis.me).
